@@ -1,5 +1,5 @@
 # Wort Wort Wort
-Mindustry mod. Wort wort wort! (Work in Progress)
+Mindustry mod. Wort wort wort! (This mod is still in Progress)
 
 Does nothing else than wort, enjoy hell. The Arbiter will be proud.
 
